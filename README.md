@@ -29,6 +29,56 @@ Still in Progress..
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
+<h3> Frontend </h3>
+
+<div style="display: flex; justify-content: center;">
+  <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="NodeJS" src ="https://img.shields.io/badge/NodeJS-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+</div>
+
+<h3> Backend </h3>
+
+<div style="display: flex; justify-content: center;">
+  <img alt="java" src="https://raw.githubusercontent.com/clintkslee/image_server/refs/heads/main/java.png" height="25" style="margin-right: 0px;"/>
+  <img alt="java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge"/>
+  <img alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img alt="Spring Cloud Gateway" src ="https://img.shields.io/badge/Spring Cloud Gateway-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Spring Cloud Neflix" src ="https://img.shields.io/badge/Spring Cloud Neflix-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Gradle" src ="https://img.shields.io/badge/Gradle-02303a.svg?&style=for-the-badge&logo=Gradle&logoColor=white"/>
+</div>
+
+<h3> Database </h3>
+
+<div style="display: flex; justify-content: center;">
+  <img alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img alt="Redis" src ="https://img.shields.io/badge/Redis-E34F26.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img alt="firebase" src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+</div>
+
+<h3> Infra & DevOps </h3>
+
+<div style="display: flex; justify-content: center;">
+  <img alt="gitlab" src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img alt="amazonec2" src ="https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img alt="jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ed.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+</div>
+
+<h3> ETC </h3>
+
+<div style="display: flex; justify-content: center;">
+  <img alt="mattermost" src ="https://img.shields.io/badge/mattermost-0058CC.svg?&style=for-the-badge&logo=mattermost&logoColor=white"/>
+  <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="erdcloud" src="https://raw.githubusercontent.com/clintkslee/image_server/refs/heads/main/erdcloud.png" height="28" style="margin-right: 0px;"/>
+  <img alt="erdcloud" src ="https://img.shields.io/badge/erdcloud-white.svg?&style=for-the-badge&logoColor=white"/>
+  <img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+  </div>
+
 
 ### 🚶 My Stat  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clintkslee&show_icons=true&theme=radical)                 
