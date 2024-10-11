@@ -72,9 +72,10 @@ Still in Progress..
 <h3> Database </h3>
 
 <div style="display: flex; justify-content: center;">
-  <img alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img alt="Redis" src ="https://img.shields.io/badge/Redis-E34F26.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
-  <img alt="firebase" src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <img alt="Redis" src ="https://img.shields.io/badge/Redis-E34F26.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
+    <img alt="firebase" src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
 <h3> Infra & DevOps </h3>
