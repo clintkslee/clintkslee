@@ -20,30 +20,49 @@ Still in Progress..
 
 
 ### 📓 Skills
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-
-<h3> Frontend </h3>
-
+<h3> Languages </h3>
 <div style="display: flex; justify-content: center;">
-  <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="NodeJS" src ="https://img.shields.io/badge/NodeJS-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+    <img alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img alt="java" src="https://raw.githubusercontent.com/clintkslee/image_server/refs/heads/main/java.png" height="28" style="margin-right: 0px;"/>
+    <img alt="java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge"/>
+    <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="html5" src ="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="dart" src ="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 
-<h3> Backend </h3>
-
+<h3> IDEs </h3>
 <div style="display: flex; justify-content: center;">
-  <img alt="java" src="https://raw.githubusercontent.com/clintkslee/image_server/refs/heads/main/java.png" height="25" style="margin-right: 0px;"/>
-  <img alt="java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge"/>
+    <img alt="intellijidea" src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img alt="eclipseide" src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+    <img alt="androidstudio" src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+</div>
+
+<h3> Environments </h3>
+<div style="display: flex; justify-content: center;">
+    <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> 
+    <img alt="amazonwebservices" src="https://img.shields.io/badge/amazon web services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+    <img alt="amazonec2" src ="https://img.shields.io/badge/amazon ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
+</div>
+
+
+
+<img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+<img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+
+
+<h3> Frontend Frameworks </h3>
+<div style="display: flex; justify-content: center;">
+    <img alt="NodeJS" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img alt="vuedotjs" src ="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+    <img alt="flutter" src ="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+</div>
+
+<h3> Backend Frameworks </h3>
+<div style="display: flex; justify-content: center;">
   <img alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Spring Cloud Gateway" src ="https://img.shields.io/badge/Spring Cloud Gateway-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <img alt="Spring Cloud Neflix" src ="https://img.shields.io/badge/Spring Cloud Neflix-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -62,7 +81,6 @@ Still in Progress..
 
 <div style="display: flex; justify-content: center;">
   <img alt="gitlab" src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="amazonec2" src ="https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img alt="jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ed.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -78,6 +96,7 @@ Still in Progress..
   <img alt="erdcloud" src ="https://img.shields.io/badge/erdcloud-white.svg?&style=for-the-badge&logoColor=white"/>
   <img alt="jira" src ="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   </div>
+
 
 
 ### 🚶 My Stat  
